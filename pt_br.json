@@ -1,0 +1,19 @@
+{"c2dictionary": true,"data":{
+
+"caboclo1_name":"Investida de Maracatu",
+"caboclo1_type":"ataque",
+"caboclo1_desc":"Causa 6 de dano.",
+
+"caboclo2_name":"Passo Firmado",
+"caboclo2_type":"defesa",
+"caboclo2_desc":"Concede 5 de escudo.",
+
+"caboclo3_name":"Golpe de Choco",
+"caboclo3_type":"ataque",
+"caboclo3_desc":"Causa 8 de dano e aplica Exposto por 1 turno.",
+
+"caboclo4_name":"Brilho do Espelho",
+"caboclo4_type":"hibrido",
+"caboclo4_desc":"Concede 5 de escudo e causa 5 de dano."
+
+}}
