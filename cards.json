@@ -7,7 +7,7 @@
 "caboclo1_dmg":"6",
 "caboclo1_block":"0",
 "caboclo1_effect":"",
-"caboclo1_desc":"",
+"caboclo1_desc":"Causa 6 de dano.",
 
 "caboclo2_hero":"caboclo_de_lanca",
 "caboclo2_name":"Passo Firmado EN",
@@ -16,7 +16,7 @@
 "caboclo2_dmg":"0",
 "caboclo2_block":"5",
 "caboclo2_effect":"",
-"caboclo2_desc":"",
+"caboclo2_desc":"Concede 5 de escudo.",
 
 "caboclo3_hero":"caboclo_de_lanca",
 "caboclo3_name":"Golpe de Choco EN",
@@ -25,7 +25,7 @@
 "caboclo3_dmg":"8",
 "caboclo3_block":"0",
 "caboclo3_effect":"Exposed:1",
-"caboclo3_desc":"",
+"caboclo3_desc":"Causa 8 de dano e aplica Exposto por 1 turno.",
 
 "caboclo4_hero":"caboclo_de_lanca",
 "caboclo4_name":"Brilho do Espelho EN",
@@ -34,6 +34,6 @@
 "caboclo4_dmg":"5",
 "caboclo4_block":"5",
 "caboclo4_effect":"",
-"caboclo4_desc":""
+"caboclo4_desc":"Concede 5 de escudo e causa 5 de dano."
 
 }}
