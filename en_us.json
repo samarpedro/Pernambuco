@@ -1,7 +1,7 @@
 {"c2dictionary": true,"data":{
 
 "TextBox_Name":"Enter your name",
-"TextBox_Room":"Room code",
+"TextBox_Room":"Room Code (leave empty to search existing rooms)",
 
 "Button_Join":"Search room",
 "Button_EndTurn":"End Turn",
@@ -21,19 +21,15 @@
 "Text_Connecting":"Connecting...",
 
 "caboclo1_name":"Maracatu Charge",
-"caboclo1_type":"attack",
 "caboclo1_desc":"Deals 6 damage.",
 
 "caboclo2_name":"Firm Step",
-"caboclo2_type":"defense",
 "caboclo2_desc":"Gains 5 block.",
 
 "caboclo3_name":"Mud Strike",
-"caboclo3_type":"attack",
 "caboclo3_desc":"Deals 8 damage and applies Exposed for 1 turn.",
 
 "caboclo4_name":"Mirror Shine",
-"caboclo4_type":"hybrid",
 "caboclo4_desc":"Gains 5 block and deals 5 damage."
 
 }}
