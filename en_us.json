@@ -1,5 +1,25 @@
 {"c2dictionary": true,"data":{
 
+"TextBox_Name":"Enter your name",
+"TextBox_Room":"Room code",
+
+"Button_Join":"Search room",
+"Button_EndTurn":"End Turn",
+
+"Text_Opponent":"Waiting for player...",
+"Text_Version":"Version: ",
+"Text_Room":"Room: ",
+"Text_Turn":"Turn: ",
+"Text_Block":"Block: ",
+"Text_Energy":"Energy: ",
+"Text_Draw":"Draw Pile: ",
+"Text_Discard":"Discard: ",
+"Text_Win":"You Win",
+"Text_Lose":"You Lose",
+"Text_OpponentDisconected":"Your opponent has disconnected",
+"Text_NoCards":"You have no more cards to draw",
+"Text_Connecting":"Connecting...",
+
 "caboclo1_name":"Maracatu Charge",
 "caboclo1_type":"attack",
 "caboclo1_desc":"Deals 6 damage.",

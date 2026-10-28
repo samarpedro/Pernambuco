@@ -1,5 +1,25 @@
 {"c2dictionary": true,"data":{
 
+"TextBox_Name":"Coloque seu nome",
+"TextBox_Room":"Código da sala",
+
+"Button_Join":"Buscar Sala",
+"Button_EndTurn":"Encerrar turno",
+
+"Text_Opponent":"Aguardando jogador...",
+"Text_Version":"Versão: ",
+"Text_Room":"Sala: ",
+"Text_Turn":"Turno: ",
+"Text_Block":"Escudo: ",
+"Text_Energy":"Energia: ",
+"Text_Draw":"Baralho: ",
+"Text_Discard":"Descarte: ",
+"Text_Win":"Você Venceu",
+"Text_Lose":"Você Perdeu",
+"Text_OpponentDisconected":"Seu oponente desconectou",
+"Text_NoCard":"Você não tem mais cartas para comprar",
+"Text_Connecting":"Conectando...",
+
 "caboclo1_name":"Investida de Maracatu",
 "caboclo1_type":"ataque",
 "caboclo1_desc":"Causa 6 de dano.",
