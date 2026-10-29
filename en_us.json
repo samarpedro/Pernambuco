@@ -30,6 +30,18 @@
 "caboclo3_desc":"Deals 8 damage and applies Exposed for 1 turn.",
 
 "caboclo4_name":"Mirror Shine",
-"caboclo4_desc":"Gains 5 block and deals 5 damage."
+"caboclo4_desc":"Gains 5 block and deals 5 damage.",
+
+"caboclo5_name":"Warrior's Spin",
+"caboclo5_desc":"Gain 6 block and deal 10 damage.",
+
+"caboclo6_name":"Dance of the Chimes",
+"caboclo6_desc":"Gain 3 block and draw 1 card.",
+
+"caboclo7_name":"Precise Thrust",
+"caboclo7_desc":"Deal 4 damage and apply Exposed for 2 turns.",
+
+"caboclo8_name":"Banner Stance",
+"caboclo8_desc":"Gain 12 heavy block."
 
 }}
