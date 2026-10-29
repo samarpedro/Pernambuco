@@ -30,6 +30,18 @@
 "caboclo3_desc":"Causa 8 de dano e aplica Exposto por 1 turno.",
 
 "caboclo4_name":"Brilho do Espelho",
-"caboclo4_desc":"Concede 5 de escudo e causa 5 de dano."
+"caboclo4_desc":"Concede 5 de escudo e causa 5 de dano.",
+
+"caboclo5_name":"Giro do Guerreiro",
+"caboclo5_desc":"Concede 6 de escudo e causa 10 de dano.",
+
+"caboclo6_name":"Dança dos Guizos",
+"caboclo6_desc":"Concede 3 de escudo e compra 1 carta.",
+
+"caboclo7_name":"Estocada Certeira",
+"caboclo7_desc":"Causa 4 de dano e aplica Exposto por 2 turnos.",
+
+"caboclo8_name":"Postura do Estandarte",
+"caboclo8_desc":"Concede 12 de escudo resistente."
 
 }}
