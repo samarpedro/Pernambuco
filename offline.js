@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1793473646,
+	"version": 1793474192,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,11 +18,19 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"noticiatext-bolditalic.ttf",
-		"noticiatext-italic.ttf",
+		"noticiatext-italic.woff2",
 		"noticiatext-regular.ttf",
+		"noticiatext-regular.woff",
+		"noticiatext-regular.woff2",
 		"stylesheet.css",
 		"noticiatext-bold.ttf",
+		"noticiatext-bold.woff",
+		"noticiatext-bold.woff2",
+		"noticiatext-bolditalic.ttf",
+		"noticiatext-bolditalic.woff",
+		"noticiatext-bolditalic.woff2",
+		"noticiatext-italic.ttf",
+		"noticiatext-italic.woff",
 		"cards.json",
 		"pt_br.json",
 		"en_us.json"

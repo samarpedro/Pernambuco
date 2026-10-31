@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1793473646
+#1793474192
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -17,11 +17,19 @@ icon-114.png
 icon-128.png
 icon-256.png
 loading-logo.png
-noticiatext-bolditalic.ttf
-noticiatext-italic.ttf
+noticiatext-italic.woff2
 noticiatext-regular.ttf
+noticiatext-regular.woff
+noticiatext-regular.woff2
 stylesheet.css
 noticiatext-bold.ttf
+noticiatext-bold.woff
+noticiatext-bold.woff2
+noticiatext-bolditalic.ttf
+noticiatext-bolditalic.woff
+noticiatext-bolditalic.woff2
+noticiatext-italic.ttf
+noticiatext-italic.woff
 cards.json
 pt_br.json
 en_us.json
