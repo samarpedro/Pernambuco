@@ -62,6 +62,51 @@
 "caboclo8_dmg":"0",
 "caboclo8_block":"12",
 "caboclo8_effect":"",
-"caboclo8_desc":"Concede 12 de escudo resistente."
+"caboclo8_desc":"Concede 12 de escudo resistente.",
+
+
+
+
+"teste1_hero":"teste",
+"teste1_name":"Lâmina Corrosiva",
+"teste1_cost":"1",
+"teste1_dmg":"4",
+"teste1_block":"0",
+"teste1_effect":"Poison:2",
+"teste1_desc":"Causa 4 de dano. Aplica 2 de Veneno.",
+
+"teste2_hero":"teste",
+"teste2_name":"Pancada Paralisante",
+"teste2_cost":"2",
+"teste2_dmg":"10",
+"teste2_block":"0",
+"teste2_effect":"Stun:1",
+"teste2_desc":"Causa 10 de dano e Atordoa o alvo.",
+
+"teste3_hero":"teste",
+"teste3_name":"Forma Etérea",
+"teste3_cost":"3",
+"teste3_dmg":"0",
+"teste3_block":"0",
+"teste3_effect":"Intangible:1",
+"teste3_desc":"Ganha 1 de Intangível.",
+
+"teste4_hero":"teste",
+"teste4_name":"Surto de Energia",
+"teste4_cost":"0",
+"teste4_dmg":"0",
+"teste4_block":"0",
+"teste4_effect":"NowEnergy:2",
+"teste4_desc":"Ganha 2 de Energia.",
+
+"teste5_hero":"teste",
+"teste5_name":"Bênção Regenerativa",
+"teste5_cost":"2",
+"teste5_dmg":"0",
+"teste5_block":"5",
+"teste5_effect":"Regenerate:3",
+"teste5_desc":"Ganha 5 de Escudo e 3 de Regeneração."
+
+
 
 }}

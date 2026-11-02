@@ -10,10 +10,8 @@
 "Text_Version":"Version: ",
 "Text_Room":"Room: ",
 "Text_Turn":"Turn: ",
-"Text_Block":"Block: ",
-"Text_Energy":"Energy: ",
-"Text_Draw":"Draw Pile: ",
-"Text_Discard":"Discard: ",
+"Text_YourTurn":"Your Turn",
+"Text_Stunned":"You are Stunned",
 "Text_Win":"You Win",
 "Text_Lose":"You Lose",
 "Text_OpponentDisconected":"Your opponent has disconnected",
@@ -42,6 +40,24 @@
 "caboclo7_desc":"Deal 4 damage and apply Exposed for 2 turns.",
 
 "caboclo8_name":"Banner Stance",
-"caboclo8_desc":"Gain 12 heavy block."
+"caboclo8_desc":"Gain 12 heavy block.",
+
+
+
+
+"teste1_name":"Corrosive Blade",
+"teste1_desc":"Deal 4 damage. Apply 2 Poison.",
+
+"teste2_name":"Paralyzing Strike",
+"teste2_desc":"Deal 10 damage and Stun the target.",
+
+"teste3_name":"Ethereal Form",
+"teste3_desc":"Gain 1 Intangible.",
+
+"teste4_name":"Energy Surge",
+"teste4_desc":"Gain 2 Energy.",
+
+"teste5_name":"Regenerative Blessing",
+"teste5_desc":"Gain 5 Block and 3 Regenerate."
 
 }}

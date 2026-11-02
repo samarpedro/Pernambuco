@@ -10,14 +10,12 @@
 "Text_Version":"Versão: ",
 "Text_Room":"Sala: ",
 "Text_Turn":"Turno: ",
-"Text_Block":"Escudo: ",
-"Text_Energy":"Energia: ",
-"Text_Draw":"Baralho: ",
-"Text_Discard":"Descarte: ",
+"Text_YourTurn":"Seu Turno",
+"Text_Stunned":"Você está Atordoado",
 "Text_Win":"Você Venceu",
 "Text_Lose":"Você Perdeu",
 "Text_OpponentDisconected":"Seu oponente desconectou",
-"Text_NoCard":"Você não tem mais cartas para comprar",
+"Text_NoCards":"Você não tem mais cartas para comprar",
 "Text_Connecting":"Conectando...",
 
 "caboclo1_name":"Investida de Maracatu",
@@ -42,6 +40,24 @@
 "caboclo7_desc":"Causa 4 de dano e aplica Exposto por 2 turnos.",
 
 "caboclo8_name":"Postura do Estandarte",
-"caboclo8_desc":"Concede 12 de escudo resistente."
+"caboclo8_desc":"Concede 12 de escudo resistente.",
+
+
+
+
+"teste1_name":"Lâmina Corrosiva",
+"teste1_desc":"Causa 4 de dano. Aplica 2 de Veneno.",
+
+"teste2_name":"Pancada Paralisante",
+"teste2_desc":"Causa 10 de dano e Atordoa o alvo.",
+
+"teste3_name":"Forma Etérea",
+"teste3_desc":"Ganha 1 de Intangível.",
+
+"teste4_name":"Surto de Energia",
+"teste4_desc":"Ganha 2 de Energia.",
+
+"teste5_name":"Bênção Regenerativa",
+"teste5_desc":"Ganha 5 de Escudo e 3 de Regeneração."
 
 }}
