@@ -42,6 +42,9 @@
 "caboclo8_name":"Postura do Estandarte",
 "caboclo8_desc":"Concede 12 de escudo resistente.",
 
+"caboclo9_name":"Foco do Guerreiro",
+"caboclo9_desc":"Compra 2 cartas.",
+
 
 
 
@@ -58,6 +61,36 @@
 "teste4_desc":"Ganha 2 de Energia.",
 
 "teste5_name":"Bênção Regenerativa",
-"teste5_desc":"Ganha 5 de Escudo e 3 de Regeneração."
+"teste5_desc":"Ganha 5 de Escudo e 3 de Regeneração.",
+
+
+
+
+"ursa1_name":"Avanço Bestial",
+"ursa1_desc":"Causa 7 de dano.",
+
+"ursa2_name":"Abraço Sufocante",
+"ursa2_desc":"Causa 10 de dano e aplica 1 de Fraqueza.",
+
+"ursa3_name":"Pele Peluda",
+"ursa3_desc":"Ganha 7 de Escudo.",
+
+"ursa4_name":"Quer Dinheiro!",
+"ursa4_desc":"Ganha 1 de Energia.",
+
+"ursa5_name":"Patada Feroz",
+"ursa5_desc":"Causa 20 de dano.",
+
+"ursa6_name":"Investida Bruta",
+"ursa6_desc":"Causa 12 de dano.",
+
+"ursa7_name":"Couro Grosso",
+"ursa7_desc":"Concede 10 de escudo.",
+
+"ursa8_name":"Uivo Ameaçador",
+"ursa8_desc":"Causa 4 de dano e aplica 2 de Fraqueza.",
+
+"ursa9_name":"Soco Desajeitado",
+"ursa9_desc":"Causa 15 de dano e concede 3 de escudo."
 
 }}

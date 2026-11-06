@@ -64,6 +64,14 @@
 "caboclo8_effect":"",
 "caboclo8_desc":"Concede 12 de escudo resistente.",
 
+"caboclo9_hero":"caboclo_de_lanca",
+"caboclo9_name":"Foco do Guerreiro",
+"caboclo9_cost":"1",
+"caboclo9_dmg":"0",
+"caboclo9_block":"0",
+"caboclo9_effect":"Draw:2",
+"caboclo9_desc":"Compra 2 cartas.",
+
 
 
 
@@ -105,7 +113,82 @@
 "teste5_dmg":"0",
 "teste5_block":"5",
 "teste5_effect":"Regenerate:3",
-"teste5_desc":"Ganha 5 de Escudo e 3 de Regeneração."
+"teste5_desc":"Ganha 5 de Escudo e 3 de Regeneração.",
+
+
+
+
+"ursa1_hero":"la_ursa",
+"ursa1_name":"Avanço Bestial",
+"ursa1_cost":"1",
+"ursa1_dmg":"7",
+"ursa1_block":"0",
+"ursa1_effect":"",
+"ursa1_desc":"Causa 7 de dano com um bote rápido.",
+
+"ursa2_hero":"la_ursa",
+"ursa2_name":"Abraço Sufocante",
+"ursa2_cost":"2",
+"ursa2_dmg":"10",
+"ursa2_block":"0",
+"ursa2_effect":"Weakness:1",
+"ursa2_desc":"Causa 10 de dano e aplica 1 de Fraqueza.",
+
+"ursa3_hero":"la_ursa",
+"ursa3_name":"Pele Peluda",
+"ursa3_cost":"1",
+"ursa3_dmg":"0",
+"ursa3_block":"7",
+"ursa3_effect":"",
+"ursa3_desc":"Ganha 7 de Escudo com as mantas grossas.",
+
+"ursa4_hero":"la_ursa",
+"ursa4_name":"Quer Dinheiro!",
+"ursa4_cost":"0",
+"ursa4_dmg":"0",
+"ursa4_block":"0",
+"ursa4_effect":"NowEnergy:1",
+"ursa4_desc":"Ganha 1 de Energia.",
+
+"ursa5_hero":"la_ursa",
+"ursa5_name":"Patada Feroz",
+"ursa5_cost":"3",
+"ursa5_dmg":"20",
+"ursa5_block":"0",
+"ursa5_effect":"",
+"ursa5_desc":"Causa um golpe devastador de 20 de dano.",
+
+"ursa6_hero":"la_ursa",
+"ursa6_name":"Investida Bruta",
+"ursa6_cost":"2",
+"ursa6_dmg":"12",
+"ursa6_block":"0",
+"ursa6_effect":"",
+"ursa6_desc":"Causa 12 de dano.",
+
+"ursa7_hero":"la_ursa",
+"ursa7_name":"Couro Grosso",
+"ursa7_cost":"2",
+"ursa7_dmg":"0",
+"ursa7_block":"10",
+"ursa7_effect":"",
+"ursa7_desc":"Concede 10 de escudo.",
+
+"ursa8_hero":"la_ursa",
+"ursa8_name":"Uivo Ameaçador",
+"ursa8_cost":"1",
+"ursa8_dmg":"4",
+"ursa8_block":"0",
+"ursa8_effect":"Weakness:2",
+"ursa8_desc":"Causa 4 de dano e aplica 2 de Fraqueza.",
+
+"ursa9_hero":"la_ursa",
+"ursa9_name":"Soco Desajeitado",
+"ursa9_cost":"3",
+"ursa9_dmg":"15",
+"ursa9_block":"3",
+"ursa9_effect":"",
+"ursa9_desc":"Causa 15 de dano e concede 3 de escudo."
 
 
 

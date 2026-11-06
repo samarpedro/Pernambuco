@@ -42,6 +42,9 @@
 "caboclo8_name":"Banner Stance",
 "caboclo8_desc":"Gain 12 heavy block.",
 
+"caboclo9_name":"Warrior's Focus",
+"caboclo9_desc":"Draw 2 cards.",
+
 
 
 
@@ -58,6 +61,36 @@
 "teste4_desc":"Gain 2 Energy.",
 
 "teste5_name":"Regenerative Blessing",
-"teste5_desc":"Gain 5 Block and 3 Regenerate."
+"teste5_desc":"Gain 5 Block and 3 Regenerate.",
+
+
+
+
+"ursa1_name":"Beastly Charge",
+"ursa1_desc":"Deal 7 damage.",
+
+"ursa2_name":"Suffocating Hug",
+"ursa2_desc":"Deal 10 damage and apply 1 Weak.",
+
+"ursa3_name":"Furry Hide",
+"ursa3_desc":"Gain 7 Block.",
+
+"ursa4_name":"Wants Money!",
+"ursa4_desc":"Gain 1 Energy.",
+
+"ursa5_name":"Fierce Paw Strike",
+"ursa5_desc":"Deal 20 damage.",
+
+"ursa6_name":"Brute Rush",
+"ursa6_desc":"Deal 12 damage.",
+
+"ursa7_name":"Thick Hide",
+"ursa7_desc":"Gain 10 block.",
+
+"ursa8_name":"Threatening Howl",
+"ursa8_desc":"Deal 4 damage and apply 2 Weak.",
+
+"ursa9_name":"Clumsy Punch",
+"ursa9_desc":"Deal 15 damage and gain 3 block."
 
 }}

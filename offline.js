@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1793651868,
+	"version": 1793972433,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,8 @@
 		"images/healthbar_background.png",
 		"images/sprite-sheet0.png",
 		"images/9patch.png",
+		"images/character-sheet0.png",
+		"images/character-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
