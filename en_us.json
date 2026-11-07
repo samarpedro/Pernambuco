@@ -37,7 +37,7 @@
 "caboclo6_desc":"Gain 3 block and draw 1 card.",
 
 "caboclo7_name":"Precise Thrust",
-"caboclo7_desc":"Deal 4 damage and apply Exposed for 2 turns.",
+"caboclo7_desc":"Deal 4 damage and apply Exposed for 1 turn.",
 
 "caboclo8_name":"Banner Stance",
 "caboclo8_desc":"Gain 12 heavy block.",
@@ -88,7 +88,7 @@
 "ursa7_desc":"Gain 10 block.",
 
 "ursa8_name":"Threatening Howl",
-"ursa8_desc":"Deal 4 damage and apply 2 Weak.",
+"ursa8_desc":"Deal 4 damage and apply 1 Weak.",
 
 "ursa9_name":"Clumsy Punch",
 "ursa9_desc":"Deal 15 damage and gain 3 block."

@@ -53,8 +53,8 @@
 "caboclo7_cost":"1",
 "caboclo7_dmg":"4",
 "caboclo7_block":"0",
-"caboclo7_effect":"Exposed:2",
-"caboclo7_desc":"Causa 4 de dano e aplica Exposto por 2 turnos.",
+"caboclo7_effect":"Exposed:1",
+"caboclo7_desc":"Causa 4 de dano e aplica Exposto por 1 turno.",
 
 "caboclo8_hero":"caboclo_de_lanca",
 "caboclo8_name":"Postura do Estandarte",
@@ -179,8 +179,8 @@
 "ursa8_cost":"1",
 "ursa8_dmg":"4",
 "ursa8_block":"0",
-"ursa8_effect":"Weakness:2",
-"ursa8_desc":"Causa 4 de dano e aplica 2 de Fraqueza.",
+"ursa8_effect":"Weakness:1",
+"ursa8_desc":"Causa 4 de dano e aplica 1 de Fraqueza.",
 
 "ursa9_hero":"la_ursa",
 "ursa9_name":"Soco Desajeitado",

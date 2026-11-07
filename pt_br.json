@@ -37,7 +37,7 @@
 "caboclo6_desc":"Concede 3 de escudo e compra 1 carta.",
 
 "caboclo7_name":"Estocada Certeira",
-"caboclo7_desc":"Causa 4 de dano e aplica Exposto por 2 turnos.",
+"caboclo7_desc":"Causa 4 de dano e aplica Exposto por 1 turno.",
 
 "caboclo8_name":"Postura do Estandarte",
 "caboclo8_desc":"Concede 12 de escudo resistente.",
@@ -88,7 +88,7 @@
 "ursa7_desc":"Concede 10 de escudo.",
 
 "ursa8_name":"Uivo Ameaçador",
-"ursa8_desc":"Causa 4 de dano e aplica 2 de Fraqueza.",
+"ursa8_desc":"Causa 4 de dano e aplica 1 de Fraqueza.",
 
 "ursa9_name":"Soco Desajeitado",
 "ursa9_desc":"Causa 15 de dano e concede 3 de escudo."
