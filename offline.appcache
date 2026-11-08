@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1794095524
+#1794152008
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -8,6 +8,7 @@ images/card-sheet0.png
 images/cardy-sheet0.png
 images/icon-sheet0.png
 images/icon-sheet1.png
+images/icon-sheet2.png
 images/healthbar.png
 images/healthbar_background.png
 images/background-sheet0.png
@@ -15,6 +16,22 @@ images/window.png
 images/character-sheet0.png
 images/character-sheet1.png
 images/vignette.png
+media/energy.m4a
+media/energy.ogg
+media/hit1.m4a
+media/hit1.ogg
+media/shieldblock2.m4a
+media/shieldblock2.ogg
+media/shieldbreak.m4a
+media/shieldbreak.ogg
+media/drawcard.m4a
+media/drawcard.ogg
+media/iron_and_skin.m4a
+media/iron_and_skin.ogg
+media/midday_duel_at_olinda.m4a
+media/midday_duel_at_olinda.ogg
+media/midday_on_the_square.m4a
+media/midday_on_the_square.ogg
 icon-16.png
 icon-32.png
 icon-114.png
