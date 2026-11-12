@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1794260955,
+	"version": 1794519576,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,6 +27,8 @@
 		"media/shieldbreak.ogg",
 		"media/drawcard.m4a",
 		"media/drawcard.ogg",
+		"media/shield.m4a",
+		"media/shield.ogg",
 		"media/iron_and_skin.m4a",
 		"media/iron_and_skin.ogg",
 		"media/midday_duel_at_olinda.m4a",
