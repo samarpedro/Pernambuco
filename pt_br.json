@@ -91,6 +91,39 @@
 "ursa8_desc":"Causa 4 de dano e aplica 1 de Fraqueza.",
 
 "ursa9_name":"Soco Desajeitado",
-"ursa9_desc":"Causa 15 de dano e concede 3 de escudo."
+"ursa9_desc":"Causa 15 de dano e concede 3 de escudo.",
+
+
+
+
+"homem1_name": "Toque da Meia-Noite",
+"homem1_desc": "Causa 6 de dano e gera 2 Badaladas.",
+
+"homem2_name": "Terno Verde e Branco",
+"homem2_desc": "Ganha 8 de Escudo.",
+
+"homem3_name": "Silêncio Solene",
+"homem3_desc": "Causa 4 de dano e ganha 4 de Escudo.",
+
+"homem4_name": "Passada do Gigante",
+"homem4_desc": "Causa 14 de dano.",
+
+"homem5_name": "Luz das Tochas",
+"homem5_desc": "Gera 3 Badaladas.",
+
+"homem6_name": "Mistério da Madrugada",
+"homem6_desc": "Ganha 6 de Escudo e gera 1 Badalada.",
+
+"homem7_name": "Ponteiro Travado",
+"homem7_desc": "Causa 5 de dano, ganha 5 de Escudo e gera 1 Badalada.",
+
+"homem8_name": "Reverência da Multidão",
+"homem8_desc": "Causa 8 de dano e gera 1 Badalada.",
+
+"homem9_name": "Cartola Encantada",
+"homem9_desc": "Compra 1 carta.",
+
+"homem10_name": "A Hora Fatídica",
+"homem10_desc": "Causa 20 de dano mais a quantidade de Badaladas. Zera o contador."
 
 }}

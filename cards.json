@@ -188,8 +188,90 @@
 "ursa9_dmg":"15",
 "ursa9_block":"3",
 "ursa9_effect":"",
-"ursa9_desc":"Causa 15 de dano e concede 3 de escudo."
+"ursa9_desc":"Causa 15 de dano e concede 3 de escudo.",
 
+
+
+
+"homem1_hero":"homem_da_meia_noite",
+"homem1_name":"Toque da Meia-Noite",
+"homem1_cost":"1",
+"homem1_dmg":"6",
+"homem1_block":"0",
+"homem1_effect":"Chime:2",
+"homem1_desc":"Causa 6 de dano e gera 2 Badaladas.",
+
+"homem2_hero":"homem_da_meia_noite",
+"homem2_name":"Terno Verde e Branco",
+"homem2_cost":"1",
+"homem2_dmg":"0",
+"homem2_block":"8",
+"homem2_effect":"",
+"homem2_desc":"Ganha 8 de Escudo.",
+
+"homem3_hero":"homem_da_meia_noite",
+"homem3_name":"Silêncio Solene",
+"homem3_cost":"1",
+"homem3_dmg":"4",
+"homem3_block":"4",
+"homem3_effect":"",
+"homem3_desc":"Causa 4 de dano e ganha 4 de Escudo.",
+
+"homem4_hero":"homem_da_meia_noite",
+"homem4_name":"Passada do Gigante",
+"homem4_cost":"2",
+"homem4_dmg":"14",
+"homem4_block":"0",
+"homem4_effect":"",
+"homem4_desc":"Causa 14 de dano.",
+
+"homem5_hero":"homem_da_meia_noite",
+"homem5_name":"Luz das Tochas",
+"homem5_cost":"0",
+"homem5_dmg":"0",
+"homem5_block":"0",
+"homem5_effect":"Chime:3",
+"homem5_desc":"Gera 3 Badaladas.",
+
+"homem6_hero":"homem_da_meia_noite",
+"homem6_name":"Mistério da Madrugada",
+"homem6_cost":"1",
+"homem6_dmg":"0",
+"homem6_block":"6",
+"homem6_effect":"",
+"homem6_desc":"Ganha 6 de Escudo e gera 1 Badalada.",
+
+"homem7_hero":"homem_da_meia_noite",
+"homem7_name":"Ponteiro Travado",
+"homem7_cost":"1",
+"homem7_dmg":"5",
+"homem7_block":"5",
+"homem7_effect":"Chime:1",
+"homem7_desc":"Causa 5 de dano, ganha 5 de Escudo e gera 1 Badalada.",
+
+"homem8_hero":"homem_da_meia_noite",
+"homem8_name":"Reverência da Multidão",
+"homem8_cost":"1",
+"homem8_dmg":"8",
+"homem8_block":"0",
+"homem8_effect":"Chime:1",
+"homem8_desc":"Causa 8 de dano e gera 1 Badalada.",
+
+"homem9_hero":"homem_da_meia_noite",
+"homem9_name":"Cartola Encantada",
+"homem9_cost":"0",
+"homem9_dmg":"0",
+"homem9_block":"0",
+"homem9_effect":"Draw:1",
+"homem9_desc":"Compra 1 carta.",
+
+"homem10_hero":"homem_da_meia_noite",
+"homem10_name":"A Hora Fatídica",
+"homem10_cost":"3",
+"homem10_dmg":"20",
+"homem10_block":"0",
+"homem10_effect":"ChimeDmg",
+"homem10_desc":"Causa 20 de dano. Zera o contador de Badaladas."
 
 
 }}

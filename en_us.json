@@ -91,6 +91,39 @@
 "ursa8_desc":"Deal 4 damage and apply 1 Weak.",
 
 "ursa9_name":"Clumsy Punch",
-"ursa9_desc":"Deal 15 damage and gain 3 block."
+"ursa9_desc":"Deal 15 damage and gain 3 block.",
+
+
+
+
+"homem1_name": "Midnight Strike",
+"homem1_desc": "Deal 6 damage and generate 2 Chimes.",
+
+"homem2_name": "Green and White Suit",
+"homem2_desc": "Gain 8 block.",
+
+"homem3_name": "Solemn Silence",
+"homem3_desc": "Deal 4 damage and gain 4 block.",
+
+"homem4_name": "Giant's Stride",
+"homem4_desc": "Deal 14 damage.",
+
+"homem5_name": "Torch Light",
+"homem5_desc": "Generate 3 Chimes.",
+
+"homem6_name": "Midnight Mystery",
+"homem6_desc": "Gain 6 block and generate 1 Chime.",
+
+"homem7_name": "Frozen Hands",
+"homem7_desc": "Deal 5 damage, gain 5 block and generate 1 Chime.",
+
+"homem8_name": "Crowd's Reverence",
+"homem8_desc": "Deal 8 damage and generate 1 Chime.",
+
+"homem9_name": "Enchanted Top Hat",
+"homem9_desc": "Draw 1 card.",
+
+"homem10_name": "The Fateful Hour",
+"homem10_desc": "Deal 20 damage plus current Chimes amount. Reset the Chimes counter."
 
 }}
