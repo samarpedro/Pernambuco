@@ -124,6 +124,39 @@
 "homem9_desc": "Compra 1 carta.",
 
 "homem10_name": "A Hora Fatídica",
-"homem10_desc": "Causa 20 de dano mais a quantidade de Badaladas. Zera o contador."
+"homem10_desc": "Causa 20 de dano mais a quantidade de Badaladas.",
+
+
+
+
+"galo1_name": "Alvorada de Aço",
+"galo1_desc": "Causa 5 de dano e compra 1 carta.",
+
+"galo2_name": "Passo do Frevo",
+"galo2_desc": "Ganha 5 de Escudo e 1 de Energia.",
+
+"galo3_name": "Corneta Dourada",
+"galo3_desc": "Causa 8 de dano.",
+
+"galo4_name": "Folia na Ponte",
+"galo4_desc": "Ganha 10 de Escudo.",
+
+"galo5_name": "Batalhão de Passistas",
+"galo5_desc": "Causa 3 de dano e ganha 3 de Escudo.",
+
+"galo6_name": "Sopro da Orquestra",
+"galo6_desc": "Causa 6 de dano e aplica 1 de Fraqueza.",
+
+"galo7_name": "Arrastão da Multidão",
+"galo7_desc": "Causa 12 de dano.",
+
+"galo8_name": "Pluma Colorida",
+"galo8_desc": "Ganha 7 de Escudo e compra 1 carta.",
+
+"galo9_name": "Despertar do Galo",
+"galo9_desc": "Gera 2 de Energia e consome a mão atual.",
+
+"galo10_name": "O Maior Bloco do Mundo",
+"galo10_desc": "Causa 15 de dano e ganha 10 de Escudo."
 
 }}

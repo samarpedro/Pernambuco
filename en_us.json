@@ -124,6 +124,39 @@
 "homem9_desc": "Draw 1 card.",
 
 "homem10_name": "The Fateful Hour",
-"homem10_desc": "Deal 20 damage plus current Chimes amount. Reset the Chimes counter."
+"homem10_desc": "Deal 20 damage plus current Chimes amount.",
+
+
+
+
+"galo1_name": "Steel Dawn",
+"galo1_desc": "Deal 5 damage and draw 1 card.",
+
+"galo2_name": "Frevo Step",
+"galo2_desc": "Gain 5 block and 1 energy.",
+
+"galo3_name": "Golden Horn",
+"galo3_desc": "Deal 8 damage.",
+
+"galo4_name": "Bridge Revelry",
+"galo4_desc": "Gain 10 block.",
+
+"galo5_name": "Dancers Battalion",
+"galo5_desc": "Deal 3 damage and gain 3 block.",
+
+"galo6_name": "Orchestra Blast",
+"galo6_desc": "Deal 6 damage and apply 1 weakness.",
+
+"galo7_name": "Crowd Pull",
+"galo7_desc": "Deal 12 damage.",
+
+"galo8_name": "Colorful Feather",
+"galo8_desc": "Gain 7 block and draw 1 card.",
+
+"galo9_name": "Rooster's Awakening",
+"galo9_desc": "Gain 2 energy and redraw hand.",
+
+"galo10_name": "The World's Largest Parade",
+"galo10_desc": "Deal 15 damage and gain 10 block."
 
 }}

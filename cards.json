@@ -271,7 +271,90 @@
 "homem10_dmg":"20",
 "homem10_block":"0",
 "homem10_effect":"ChimeDmg",
-"homem10_desc":"Causa 20 de dano. Zera o contador de Badaladas."
+"homem10_desc":"Causa 20 de dano. Zera o contador de Badaladas.",
+
+
+
+
+"galo1_hero": "galo_da_madrugada",
+"galo1_name": "Alvorada de Aço",
+"galo1_cost": "1",
+"galo1_dmg": "5",
+"galo1_block": "0",
+"galo1_effect": "Draw:1",
+"galo1_desc": "Causa 5 de dano e compra 1 carta.",
+
+"galo2_hero": "galo_da_madrugada",
+"galo2_name": "Passo do Frevo",
+"galo2_cost": "1",
+"galo2_dmg": "0",
+"galo2_block": "5",
+"galo2_effect": "NowEnergy:1",
+"galo2_desc": "Ganha 5 de Escudo e 1 de Energia.",
+
+"galo3_hero": "galo_da_madrugada",
+"galo3_name": "Corneta Dourada",
+"galo3_cost": "1",
+"galo3_dmg": "8",
+"galo3_block": "0",
+"galo3_effect": "",
+"galo3_desc": "Causa 8 de dano.",
+
+"galo4_hero": "galo_da_madrugada",
+"galo4_name": "Folia na Ponte",
+"galo4_cost": "1",
+"galo4_dmg": "0",
+"galo4_block": "10",
+"galo4_effect": "",
+"galo4_desc": "Ganha 10 de Escudo.",
+
+"galo5_hero": "galo_da_madrugada",
+"galo5_name": "Batalhão de Passistas",
+"galo5_cost": "1",
+"galo5_dmg": "3",
+"galo5_block": "3",
+"galo5_effect": "",
+"galo5_desc": "Causa 3 de dano e ganha 3 de Escudo.",
+
+"galo6_hero": "galo_da_madrugada",
+"galo6_name": "Sopro da Orquestra",
+"galo6_cost": "1",
+"galo6_dmg": "6",
+"galo6_block": "0",
+"galo6_effect": "Weakness:1",
+"galo6_desc": "Causa 6 de dano e aplica 1 de Fraqueza.",
+
+"galo7_hero": "galo_da_madrugada",
+"galo7_name": "Arrastão da Multidão",
+"galo7_cost": "2",
+"galo7_dmg": "12",
+"galo7_block": "0",
+"galo7_effect": "",
+"galo7_desc": "Causa 12 de dano.",
+
+"galo8_hero": "galo_da_madrugada",
+"galo8_name": "Pluma Colorida",
+"galo8_cost": "1",
+"galo8_dmg": "0",
+"galo8_block": "7",
+"galo8_effect": "Draw:1",
+"galo8_desc": "Ganha 7 de Escudo e compra 1 carta.",
+
+"galo9_hero": "galo_da_madrugada",
+"galo9_name": "Despertar do Galo",
+"galo9_cost": "0",
+"galo9_dmg": "0",
+"galo9_block": "0",
+"galo9_effect": "RedrawHand:NowEnergy:2",
+"galo9_desc": "Gera 2 de Energia e troca a mão atual.",
+
+"galo10_hero": "galo_da_madrugada",
+"galo10_name": "O Maior Bloco do Mundo",
+"galo10_cost": "3",
+"galo10_dmg": "15",
+"galo10_block": "10",
+"galo10_effect": "",
+"galo10_desc": "Causa 15 de dano e ganha 10 de Escudo."
 
 
 }}
