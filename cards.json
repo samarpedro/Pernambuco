@@ -238,7 +238,7 @@
 "homem6_cost":"1",
 "homem6_dmg":"0",
 "homem6_block":"6",
-"homem6_effect":"",
+"homem6_effect":"Chime:1",
 "homem6_desc":"Ganha 6 de Escudo e gera 1 Badalada.",
 
 "homem7_hero":"homem_da_meia_noite",

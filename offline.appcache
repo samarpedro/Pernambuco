@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1794770604
+#1794859806
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -17,6 +17,7 @@ images/character-sheet0.png
 images/character-sheet1.png
 images/character-sheet2.png
 images/vignette.png
+images/healthbar_trail.png
 media/energy.m4a
 media/energy.ogg
 media/hit1.m4a
